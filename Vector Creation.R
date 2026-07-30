@@ -48,3 +48,20 @@ numbers <- c(45, 12, 78, 23, 56)
 
 cat("10 Ascending =", sort(numbers), "\n")
 cat("10 Descending =", sort(numbers, decreasing = TRUE), "\n")
+
+
+# OUTPUTS: 1 = 
+# 1 2 3 4 5 6 7 8 9 10 
+# 2 = Hamza 
+# 3 Sum = 433 
+# 3 Average = 86.6 
+# 3 Maximum = 92 
+# 3 Minimum = 78 
+# 4 = 2 4 6 8 10 12 14 16 18 20 
+# 5 = 5 5 5 5 5 5 5 5 5 5 
+# 6 = 10 20 30 100 50 
+# 7 = 10 30 40 50 
+# 8 = 60 80 55 
+# 9 = 1 3 5 7 9 2 4 6 8 10 
+# 10 Ascending = 12 23 45 56 78 
+# 10 Descending = 78 56 45 23 12 
